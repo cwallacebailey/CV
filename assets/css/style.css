@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@200&family=Roboto+Slab&display=swap');
+
+/* ---------- Colours */
+
+.bg-color-name-title {
+    background-color: #676767
+}
+
+/* ---------- Heading */
+
+header {
+    margin: 0;
+}
+
+.heading {
+    margin-left: 50px;
+}
+
+.logo {
+    background: url("../images/charlie.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: all .5s ease-in-out;
+    height: 100vh;
+}
+
+.name {
+    font-family: "Exo", sans-serif;
+    font-size: 46px;
+    margin-top: 50px;
+    color: #fff;
+}
+
